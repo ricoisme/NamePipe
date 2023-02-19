@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+
+
+
+/NamePipe.Helper/obj
+/NamePipe.Helper/bin/Debug/net6.0
+/NamePipe.Server/bin/Debug/net6.0
+/NamePipe.Server/obj
+/NamePipe.WebAPI/bin/Debug/net6.0
+/NamePipe.WebAPI/obj
